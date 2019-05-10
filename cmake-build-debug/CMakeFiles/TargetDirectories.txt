@@ -1,3 +1,0 @@
-/Users/rpmmcdougall/dev/openmp-intel-learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/rpmmcdougall/dev/openmp-intel-learning/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rpmmcdougall/dev/openmp-intel-learning/cmake-build-debug/CMakeFiles/openmp_intel_learning.dir
